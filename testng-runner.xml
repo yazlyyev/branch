@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Branch Tests" verbose="2">
+
+	<test name="Branch Team Tests">
+		<packages>
+			<package name=".*"></package>
+		</packages>
+	</test>
+
+</suite>
